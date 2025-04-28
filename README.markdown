@@ -1,6 +1,6 @@
 # 🌌✨ HueSAR: The Cosmic & Medical Imaging Extravaganza! 🩺🚀
 
-![HueSAR Logo](logo_geeks.png)
+![HueSAR Logo](.venv\logo_geeks.png)
 
 🌟 **HueSAR** is not just a project—it's a *universe* of imaging innovation! 🌟 Whether you're gazing at the stars with satellite SAR images or diving into the depths of medical diagnostics with MRI, CT, and X-ray scans, HueSAR transforms grayscale into breathtaking, high-fidelity color with **90% accuracy**! Powered by deep learning wizardry, HueSAR is your ultimate tool for precision, clarity, and beauty. 🎨💥
 
